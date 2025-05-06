@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Class">
+      <UniqueIdentifier>{243b359c-d112-4269-904e-a6f8d5a5b513}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine">
+      <UniqueIdentifier>{ced7430c-54fd-40ff-a2ad-9115af00652c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func">
+      <UniqueIdentifier>{f66d1a58-a47a-498f-bcba-17e098ac89a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\Get">
+      <UniqueIdentifier>{8b04d012-a862-46f4-b6f9-07c676284db1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\Create">
+      <UniqueIdentifier>{c4d65c11-4c64-432a-a899-9d5a007561a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class">
+      <UniqueIdentifier>{57218e94-deee-49e0-aea2-a511fb301b23}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Window">
+      <UniqueIdentifier>{2cc3f408-76b8-46ea-ad78-404fc969a054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Window\Func">
+      <UniqueIdentifier>{b57d44fe-cb0b-4e0c-80e2-f53425dd25c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Window\Func\WindowProc">
+      <UniqueIdentifier>{35fd4dbc-398d-4cdc-a991-a74d9a60e6a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\SwapChain">
+      <UniqueIdentifier>{8a7f8bad-ee62-4990-b877-5a288c739fc9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Commands">
+      <UniqueIdentifier>{d4c6f924-d0e2-4a72-9506-076deeb3671d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Error">
+      <UniqueIdentifier>{d67664ee-d7f6-4421-a485-44323fd1b9c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\TransitionBarrier">
+      <UniqueIdentifier>{82d38c08-9651-4a03-ad47-e571e2b7a042}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Fence">
+      <UniqueIdentifier>{9eb1ab0c-0b25-44b5-903d-832cf07c8a9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\StringInfo">
+      <UniqueIdentifier>{b2b4bee1-60da-4b79-b2d6-476c9c15384f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\Matrix">
+      <UniqueIdentifier>{dbff0307-dbed-449f-9647-14704c0047a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Shader">
+      <UniqueIdentifier>{a7dc4923-a987-40ac-8cb8-b431062a67cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Shader">
+      <UniqueIdentifier>{468c3078-4e79-46ba-8019-ae472a89564f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{7b23dc69-e096-420f-8b72-e06c7d423bb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\Crash">
+      <UniqueIdentifier>{4e07fd19-15b8-41b1-86c4-52ca6fe4fdbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\Texture">
+      <UniqueIdentifier>{b02d23f1-585f-4897-8faa-3d41e05bdfd5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\TextureManager">
+      <UniqueIdentifier>{b25f08be-7709-4c18-967a-9a9698394a0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Func\ModelData">
+      <UniqueIdentifier>{658aac94-097b-4e1a-a57d-45eb62a3ec5d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Sound">
+      <UniqueIdentifier>{5a8036fc-2bf6-45e6-ba3e-78b6fc06d2bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\Input">
+      <UniqueIdentifier>{cc7a66f7-07ee-4c83-91a2-b84efd81abee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\DebugCamera">
+      <UniqueIdentifier>{55fb6466-9bcf-4e45-88d4-4d82f7d70a5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Class\Engine\Class\ModelManager">
+      <UniqueIdentifier>{9690b237-cc34-4c48-8493-e2fa1bf0c374}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Engine.cpp">
+      <Filter>Class\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\Window\Func\WindowProc\WindowProc.cpp">
+      <Filter>Class\Engine\Class\Window\Func\WindowProc</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\StringInfo\StringInfo.cpp">
+      <Filter>Class\Engine\Func\StringInfo</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\Get\Get.cpp">
+      <Filter>Class\Engine\Func\Get</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\Create\Create.cpp">
+      <Filter>Class\Engine\Func\Create</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\Window\Window.cpp">
+      <Filter>Class\Engine\Class\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\ErrorDetection\ErrorDetection.cpp">
+      <Filter>Class\Engine\Class\Error</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\SwapChain\SwapChain.cpp">
+      <Filter>Class\Engine\Class\SwapChain</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\Commands\Commands.cpp">
+      <Filter>Class\Engine\Class\Commands</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\TransitionBarrier\TransitionBarrier.cpp">
+      <Filter>Class\Engine\Func\TransitionBarrier</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\Fence\Fence.cpp">
+      <Filter>Class\Engine\Class\Fence</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\Matrix\Matrix.cpp">
+      <Filter>Class\Engine\Func\Matrix</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\Shader\Shader.cpp">
+      <Filter>Class\Engine\Class\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\externals\imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\externals\imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\externals\imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\externals\imgui\imgui_impl_dx12.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\externals\imgui\imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\externals\imgui\imgui_tables.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\externals\imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\Crash\Crash.cpp">
+      <Filter>Class\Engine\Func\Crash</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\Texture\Texture.cpp">
+      <Filter>Class\Engine\Func\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\TextureManager\TextureManager.cpp">
+      <Filter>Class\Engine\Class\TextureManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Func\ModelData\ModelData.cpp">
+      <Filter>Class\Engine\Func\ModelData</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\Sound\Sound.cpp">
+      <Filter>Class\Engine\Class\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\Input\Input.cpp">
+      <Filter>Class\Engine\Class\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\DebugCamera\DebugCamera.cpp">
+      <Filter>Class\Engine\Class\DebugCamera</Filter>
+    </ClCompile>
+    <ClCompile Include="Class\Engine\Class\ModelManager\ModelManager.cpp">
+      <Filter>Class\Engine\Class\ModelManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Class\Engine\Engine.h">
+      <Filter>Class\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\Window\Func\WindowProc\WindowProc.h">
+      <Filter>Class\Engine\Class\Window\Func\WindowProc</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\StringInfo\StringInfo.h">
+      <Filter>Class\Engine\Func\StringInfo</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\Get\Get.h">
+      <Filter>Class\Engine\Func\Get</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\Create\Create.h">
+      <Filter>Class\Engine\Func\Create</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\Window\Window.h">
+      <Filter>Class\Engine\Class\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\ErrorDetection\ErrorDetection.h">
+      <Filter>Class\Engine\Class\Error</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\SwapChain\SwapChain.h">
+      <Filter>Class\Engine\Class\SwapChain</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\Commands\Commands.h">
+      <Filter>Class\Engine\Class\Commands</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\TransitionBarrier\TransitionBarrier.h">
+      <Filter>Class\Engine\Func\TransitionBarrier</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\Fence\Fence.h">
+      <Filter>Class\Engine\Class\Fence</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\Matrix\Matrix.h">
+      <Filter>Class\Engine\Func\Matrix</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Struct.h">
+      <Filter>Class\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\Shader\Shader.h">
+      <Filter>Class\Engine\Class\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imgui_impl_dx12.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\externals\imgui\imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\Crash\Crash.h">
+      <Filter>Class\Engine\Func\Crash</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\Texture\Texture.h">
+      <Filter>Class\Engine\Func\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\TextureManager\TextureManager.h">
+      <Filter>Class\Engine\Class\TextureManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Func\ModelData\ModelData.h">
+      <Filter>Class\Engine\Func\ModelData</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\Sound\Sound.h">
+      <Filter>Class\Engine\Class\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\Input\Input.h">
+      <Filter>Class\Engine\Class\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\DebugCamera\DebugCamera.h">
+      <Filter>Class\Engine\Class\DebugCamera</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Engine\Class\ModelManager\ModelManager.h">
+      <Filter>Class\Engine\Class\ModelManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="Class\Engine\Shader\Object3D.VS.hlsl">
+      <Filter>Class\Engine\Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="Class\Engine\Shader\Object3D.PS.hlsl">
+      <Filter>Class\Engine\Shader</Filter>
+    </FxCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Class\Engine\externals\imgui\LICENSE.txt">
+      <Filter>imgui</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Class\Engine\Shader\Object3D.hlsli">
+      <Filter>Class\Engine\Shader</Filter>
+    </None>
+  </ItemGroup>
+</Project>
